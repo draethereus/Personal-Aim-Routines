@@ -1,0 +1,106 @@
+{
+	"playlistName": "Drae Movement V2 Test",
+	"scenarioList": [
+		{
+			"scenarioName": "lgc3 Reborn Thin",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Revolving Tracking Thin",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Pistol Strafe Gallery Sparky Small (good version)",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Pasu Dodge Small Easy",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Pattargetswitch Dodge 360 small",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Bounce CT Dodge Park",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Revolving Tracking Bounce",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "CFSD Pure",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Circle Strafes Long Varied Medium",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Circle Strafes Long Varied Easy",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Overhead Jumps Reversed small",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "Circle Strafes Mid Varied Medium",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Circle Strafes Mid Varied Easy",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Revolving Tracking Strafes",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "Air dodge small invincible 4",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "CFSD Pure",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Vertical Heaven",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "Cycle Strafes Mid Varied Medium",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Cycle Strafes Mid Varied Easy",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Air Invincible Bounce House HARD",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "Cycle Strafes Long Varied Medium",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Cycle Strafes Long Varied Easy",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "lgc3 Reborn Thin",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "CFSD Pure",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Close Fast Colosseum Robots",
+			"playCount": 4
+		}
+	],
+	"isFavorite": true
+}

@@ -1,0 +1,56 @@
+{
+	"playlistName": "Drae Smooth Tracking V2 Easier",
+	"playlistId": 0,
+	"authorSteamId": "",
+	"authorName": "",
+	"scenarioList": [
+		{
+			"scenarioName": "Centering II 180 no strafes",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "vertical smoothness training popcorn small",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "1wall5targets pasu track invincible small",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Pasu Track Smooth extra extra small",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "popcorn goated tracking invincible smaller",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Smoothbot Pauer Glider",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "Smoothbot Voltaic",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "Air CELESTIAL",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "tamTargetSwitch Smooth Hard",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Paki Aim Invincible",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "canTS",
+			"playCount": 3
+		}
+	],
+	"description": "",
+	"hasOfflineScenarios": false,
+	"hasEdited": true,
+	"shareCode": ""
+}
